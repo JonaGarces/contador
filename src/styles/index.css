@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background: black;
+}
+.bigCounter{ 
+    text-align: center;
+    background: black;
+}
+
+.bigCounter div{
+display: inline-block;
+font-size: 80px;
+line-height: 80px;
+
+background: grey;
+color: white;
+padding: 10px;
+margin: 3px;
+}
